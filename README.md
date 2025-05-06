@@ -1,4 +1,3 @@
-![logo](https://github.com/mdirfangithu6/mdirfangithu6/blob/main/MyBanner.jpg)
 <h1 align="center">Hi 👋, I'm Md Irfan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
